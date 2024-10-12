@@ -1,1 +1,6 @@
 python-dotenv
+sqlalchemy 
+pandas 
+numpy 
+streamlit 
+streamlit-aggrid
