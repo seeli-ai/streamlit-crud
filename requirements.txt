@@ -1,5 +1,5 @@
 python-dotenv
-sqlalchemy 
+sqlmodel
 pandas 
 numpy 
 streamlit 
